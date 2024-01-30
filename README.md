@@ -1,30 +1,4 @@
-# yeardream33
+# yd3_attend
 
-Abstract: This project is to practice git.
-[See Demo] (https://www.google.com/)
+인공지능 부트캠프인 이어드림스쿨 3기 교육생들의 강의장 시프티 출결 데이터를 이용해 데이터 분석을 해보았어요!
 
-## Vim modes
-
-- Normal mode: press `esc` on ANY mode
-- Insert mode: press `i` on Normal mode
-- Visual mode: press `v` on Normal mode
-- Command mode: press `:` on Normal mode
-
-## Installation
-
-```shell
-$ git clone {repo address}
-$ cd {repo name}
-$ vi README.md
-```
-
-## How to start
-
-```python
-def hello(name):
-    print(f'hello, {name}')
-
-hello('John Doe')
-```
-
-## Features
